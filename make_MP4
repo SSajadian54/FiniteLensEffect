@@ -1,0 +1,13 @@
+
+
+cat map0_1.jpg  map0_2.jpg  map0_3.jpg  map0_4.jpg  map0_5.jpg  map0_6.jpg  map0_7.jpg  map0_8.jpg  map0_9.jpg  map0_10.jpg   map0_11.jpg  map0_12.jpg  map0_13.jpg  map0_14.jpg  map0_15.jpg  map0_16.jpg  map0_17.jpg  map0_18.jpg  map0_19.jpg   map0_20.jpg  map0_21.jpg  map0_22.jpg  map0_23.jpg  map0_24.jpg  map0_25.jpg  map0_26.jpg  map0_27.jpg  map0_28.jpg   map0_29.jpg  map0_30.jpg  map0_31.jpg  map0_32.jpg  map0_33.jpg  map0_34.jpg  map0_35.jpg  map0_36.jpg  map0_37.jpg   map0_38.jpg  map0_39.jpg  map0_40.jpg  map0_41.jpg  map0_42.jpg  map0_43.jpg  map0_44.jpg  map0_45.jpg  map0_46.jpg  map0_47.jpg  map0_48.jpg  map0_49.jpg     | ffmpeg -f image2pipe -r 1 -vcodec mjpeg -i - -vcodec libx264  Self0_ex4.mp4
+
+
+
+cat map1_1.jpg map1_2.jpg map1_3.jpg   map1_4.jpg   map1_5.jpg  map1_6.jpg  map1_7.jpg  map1_8.jpg  map1_9.jpg  map1_10.jpg  map1_11.jpg  map1_12.jpg  map1_13.jpg  map1_14.jpg  map1_15.jpg  map1_16.jpg map1_17.jpg map1_18.jpg map1_19.jpg map1_20.jpg map1_21.jpg  map1_22.jpg  map1_23.jpg  map1_24.jpg  map1_25.jpg  map1_26.jpg  map1_27.jpg map1_28.jpg  map1_29.jpg  map1_30.jpg map1_31.jpg map1_32.jpg  map1_33.jpg  map1_34.jpg  map1_35.jpg  map1_36.jpg  map1_37.jpg map1_38.jpg  map1_39.jpg  map1_40.jpg  map1_41.jpg map1_42.jpg map1_43.jpg  map1_44.jpg  map1_45.jpg  map1_46.jpg  map1_47.jpg map1_48.jpg  map1_49.jpg  | ffmpeg -f image2pipe -r 1 -vcodec mjpeg -i - -vcodec libx264  Self1_ex4.mp4
+
+
+
+
+
+map0_50.jpg  map0_51.jpg  map0_52.jpg  map0_53.jpg  map0_54.jpg  map0_55.jpg  map0_56.jpg  map0_57.jpg  map0_58.jpg  map0_59.jpg  map0_60.jpg  map0_61.jpg  map0_62.jpg  map0_63.jpg  map0_64.jpg  map0_65.jpg
